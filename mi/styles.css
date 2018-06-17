@@ -1,0 +1,26 @@
+﻿html {
+    font-family: "futura-pt",'Futura PT',futura,"TW Cen MT",sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.violet a {
+    color: #440099;
+}
