@@ -1,0 +1,24 @@
+﻿html {
+    font-family: "futura-pt",'Futura PT',futura,"TW Cen MT",sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+h1, h2 {
+    margin-top: 100px;
+    font-weight: normal;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
